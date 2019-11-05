@@ -1,0 +1,16 @@
+{
+"companyName": "Madeirol",
+"productName": "Madeirol - Ambientes Planejados",
+"productVersion": "WebGL 1.0",
+"dataUrl": "CozinhaXML.data.unityweb",
+"wasmCodeUrl": "CozinhaXML.wasm.code.unityweb",
+"wasmFrameworkUrl": "CozinhaXML.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
